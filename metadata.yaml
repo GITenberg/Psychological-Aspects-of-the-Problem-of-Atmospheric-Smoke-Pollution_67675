@@ -1,0 +1,37 @@
+_repo: Psychological-Aspects-of-the-Problem-of-Atmospheric-Smoke-Pollution_67675
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallin, J. E. Wallace (John Edward Wallace)
+    alias: Wallin, John Edward Wallace
+    birthdate: 1876
+    deathdate: 1969
+    gutenberg_agent_id: '54393'
+    url: http://www.gutenberg.org/2009/agents/54393
+    wikipedia: https://en.wikipedia.org/wiki/J._E._Wallace_Wallin
+description: ''
+gutenberg_issued: '2022-03-21'
+identifiers:
+  gutenberg: '67675'
+  lccn: a14000047
+language: en
+pgterms:marc904: https://archive.org/details/psychologicalasp00walliala
+pgterms:marc905: 20200625111027wallinphd
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :University of Pittsburgh,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Mellon Institute of Industrial Research and School of Specific Industries,
+  Smoke Investigation, Bulletin No. 3
+subjects:
+- !lcsh 'Human beings -- Effect of environment on'
+- !lcsh 'Smoke'
+- !lcc 'TD'
+- GITenberg
+title: Psychological Aspects of the Problem of Atmospheric Smoke Pollution
+url: http://www.gutenberg.org/ebooks/67675
